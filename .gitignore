@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+*.pot
+*.pyc
+media/
+static/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
